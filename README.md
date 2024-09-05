@@ -5,7 +5,7 @@
 
 Hi, I'm JiekerTime, a boy who is keen on open source from China,Tianjin.
 
-- 🔭 I’m currently working on [JD](https://corporate.jd.com/)
+- 🔭 I’m currently working on [Alibaba](https://www.alibaba.com/)
 - 🌱 I’m currently opening source [ShardingSphere](https://shardingsphere.apache.org/)
 - 💬 Ask me about anything [here](https://github.com/JiekerTime/JiekerTime/issues)
 
