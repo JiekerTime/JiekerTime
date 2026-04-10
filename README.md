@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm JiekerTime, a boy who is keen on open source from China,Tianjin.
+Hi, I'm JiekerTime, a boy who is keen on open source from Japan, Toyok.
 
 - 🔭 I’m currently working on [Alibaba](https://www.alibaba.com/)
 - 🌱 I’m currently opening source [ShardingSphere](https://shardingsphere.apache.org/)
